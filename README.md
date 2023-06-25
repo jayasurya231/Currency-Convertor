@@ -1,4 +1,4 @@
-# Currency-Convertor
+# Currency-Conveter
 The Currency Converter is a simple web application that allows users to convert between different currencies based on the latest exchange rates.
 
 # Features
